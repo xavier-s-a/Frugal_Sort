@@ -36,7 +36,7 @@ The worst-case running time is unbounded. It might sort in a few swaps or take a
 
 ### Current status
 
-#### V-1
+#### V.1
 - The current version uses random swapping and low-priority scheduling. It does not yet directly use leftover or reclaimable memory.
 
 
